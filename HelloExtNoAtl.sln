@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 8.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloExtNoAtl", "HelloExtNoAtl.vcproj", "{7F4A4210-596D-4B26-9DFE-889577BD4BA6}"
 	ProjectSection(ProjectDependencies) = postProject
